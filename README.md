@@ -24,5 +24,5 @@ I am a **Master’s student in Applied Data Science at Syracuse University**, pa
 I am excited about opportunities where I can apply my expertise in **data science, machine learning, and business intelligence** to solve real-world challenges. I thrive in **collaborative environments** that prioritize innovation and efficiency.  
 
 ### **📫 Let's Connect!**  
- ✉ tchowdar@syr.edu | 🌐 [LinkedIn](https://www.linkedin.com/in/hemanthchowdarythammineni/)  
+ ✉ hemanthchowdary1781@gmail.com | 🌐 [LinkedIn](https://www.linkedin.com/in/hemanthchowdarythammineni/)  
 
