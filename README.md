@@ -1,28 +1,51 @@
-### **👋 Hi, I'm Thammineni Hemanth Chowdary!**  
-🚀 **Aspiring Data Scientist | Machine Learning Enthusiast | Data Analytics & Visualization**  
+<h1 align="center">Hi, I'm Hemanth 👋</h1>
+<p align="center">
+  <b>AI/ML Engineer • Real-time ML & Streaming • MLOps • Responsible AI</b><br/>
+  I build production ML systems with Python, Spark, Kafka, TensorFlow/PyTorch on AWS & Azure.
+</p>
 
-I am a **Master’s student in Applied Data Science at Syracuse University**, passionate about leveraging **data analytics, machine learning, and business intelligence** to drive impactful solutions. My expertise lies in transforming complex data into actionable insights using statistical analysis, predictive modeling, and visualization techniques.  
+<p align="center">
+  <a href="https://thamminenihemanthchowdary.github.io/Hemanth_Thammineni.github.io">🌐 Portfolio</a> •
+  <a href="mailto:thamminenihemanth17@gmail.com">✉️ Email</a> •
+  <a href="https://www.linkedin.com/in/hemanthchowdarythammineni/">LinkedIn</a>
+</p>
 
-### **🔍 What I Work On:**  
-📊 **Data Analytics & Business Intelligence** – Extracting insights from structured and unstructured data.  
-🤖 **Machine Learning & Predictive Modeling** – Optimizing models for decision-making and forecasting.  
-📈 **Big Data Processing** – Utilizing PySpark, Hadoop, and cloud platforms for large-scale data handling.  
-📊 **Data Visualization & Dashboards** – Creating interactive reports using **Tableau, Power BI, and Python**.  
+---
 
-### **📂 Projects & Experience:**  
-- **Optimizing Electricity Demand for ESC** – Developed predictive models to enhance grid efficiency.  
-- **Apple Stock Prediction using PySpark** – Built ML models for accurate stock price forecasting.  
-- **NY Transportation Analysis** – Analyzed DMV and crash records using Tableau to uncover key trends.  
-- **Genesis Software Solution Inc (Internship)** – Hands-on experience in **data preprocessing, feature engineering, and workflow automation** to enhance predictive accuracy.  
+### About me
+I’m an AI/ML Engineer with 3+ years of experience turning high-volume, messy data into production-ready ML solutions. I design end-to-end pipelines—batch and **real-time**—using Python, Spark, and Kafka; build models in TensorFlow/PyTorch and Spark MLlib; and ship with strong **MLOps** practices (Docker, CI/CD, testing, observability). I care about **Responsible AI** and instrument services for drift, data quality, and fairness using SHAP/LIME, Prometheus/Grafana, and CloudWatch.
 
-### **🛠️ Tech Stack:**  
-📌 Python (Pandas, NumPy, Scikit-learn, TensorFlow) | PySpark | SQL | R  
-📌 Tableau | Power BI | Snowflake | Databricks  
-📌 Cloud: Azure | AWS | Google Cloud  
+**Currently:** AI/ML Engineer @ **Capital One** (Dec 2024–Present) working on real-time fraud detection and credit risk.  
+**Previously:** AI/ML Engineer @ **Hexaware Technologies** (Jan 2021–Jul 2023).  
+**Education:** M.S. in Applied Data Science, **Syracuse University** (May 2025).
 
-### **💡 Career Aspiration:**  
-I am excited about opportunities where I can apply my expertise in **data science, machine learning, and business intelligence** to solve real-world challenges. I thrive in **collaborative environments** that prioritize innovation and efficiency.  
+---
 
-### **📫 Let's Connect!**  
- ✉ hemanthchowdary1781@gmail.com | 🌐 [LinkedIn](https://www.linkedin.com/in/hemanthchowdarythammineni/)  
+### What I work on
+- **Real-time ML & Streaming:** Spark + **Kafka** pipelines; sub-100 ms inference for transaction scoring.  
+- **MLOps & Reliability:** Dockerized services, CI/CD, unit/integration tests, drift & performance monitoring.  
+- **Responsible AI:** Explainability (SHAP/LIME), bias/fairness checks, transparent decisioning.  
+- **Data Engineering:** ETL/ELT on **AWS** (S3, EMR, Lambda, SageMaker) and **Azure** (Databricks, ML Studio, Data Factory).
 
+---
+
+### Selected projects (explained)
+- **NYPD Crime Hotspots & Response Time:** Analyzed 7M+ 911 dispatch records joined with weather to forecast response times and identify high-risk hotspots. Built Decision Trees, Random Forests, ARIMA, and LSTM models; surfaced borough-level patterns (e.g., consistently faster responses in Midtown areas) and recommended fairness audits and real-time data integration for operations.
+
+- **What, How, New York Drives?:** Combined 8.8M DMV transactions with 3.26M crash records and EV infrastructure data to uncover usage trends, crash risk by time/driver cohorts, and EV adoption. Delivered interactive dashboards highlighting Sunday/afternoon crash peaks and NYC’s lead in EV infrastructure, with suggestions for predictive crash modeling and sustainable mobility planning.
+
+- **Energy Demand Forecasting:** Modeled hourly electricity consumption (175K+ rows) across SC/NC using engineered weather/building features. Tuned **XGBoost** achieved ~88.6% R²; **SHAP** attributed most variance to temperature and insulation. Built a Shiny app to visualize county usage and simulate demand under +5°F scenarios; proposed demand-response strategies (smart pricing, retrofits) to reduce peak load.
+
+- **Apple Stock Forecasting:** Built a PySpark feature pipeline over 10+ years of market data (returns, lags, calendar effects) plus macro indicators (VIX, bond yields). Classic models captured volatility regimes; best RMSE ≈ 0.384. Findings emphasized regime shifts (e.g., 2022 drawdown) and how macro signals inform short-horizon risk.
+
+---
+
+### Core stack
+`Python` • `PySpark` • `TensorFlow` • `PyTorch` • `Spark MLlib` • `Kafka` • `Docker` • `CI/CD` • `Prometheus` • `Grafana` • `CloudWatch` • `AWS (S3, EMR, Lambda, SageMaker)` • `Azure (Databricks, ML Studio, Data Factory)` • `SQL` • `Tableau/Power BI`
+
+---
+
+### How I work
+**Guardrails first** (tests, monitoring, clear rollbacks) • **Small, fast iterations** • **Crisp storytelling** with decision-ready insights.
+
+> Open to collaborations in real-time ML, fraud/risk modeling, and production MLOps.
