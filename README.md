@@ -21,7 +21,7 @@ across cross-functional teams. Strong focus on scalability, performance optimiza
 best practices.
 
 
-**Currently:** Data Engineer @ ** JPMorgan Chase & Co., USA** (Dec 2024–Present) working on real-time fraud detection and credit risk.  
+**Currently:** Data Engineer @ **JPMorgan Chase & Co., USA** (Dec 2024–Present).  
 **Previously:** Data Engineer @ **Hexaware Technologies** (Jan 2021–Jul 2023).  
 **Education:** M.S. in Applied Data Science, **Syracuse University** (May 2025).
 
