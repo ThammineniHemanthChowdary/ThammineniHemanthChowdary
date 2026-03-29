@@ -13,10 +13,16 @@
 ---
 
 ### About me
-I’m an AI/ML Engineer with 3+ years of experience turning high-volume, messy data into production-ready ML solutions. I design end-to-end pipelines—batch and **real-time**—using Python, Spark, and Kafka; build models in TensorFlow/PyTorch and Spark MLlib; and ship with strong **MLOps** practices (Docker, CI/CD, testing, observability). I care about **Responsible AI** and instrument services for drift, data quality, and fairness using SHAP/LIME, Prometheus/Grafana, and CloudWatch.
+Data Engineer with 3+ years of experience designing, building, and optimizing enterprise-scale data pipelines, cloud-based data platforms, 
+and analytics-ready datasets in highly regulated environments. Proven expertise in ETL/ELT development, advanced SQL, data modeling, 
+AWS-native services, and data quality frameworks supporting risk, compliance, finance, and analytics use cases. Delivered pipelines 
+processing millions of records per day, improved data reliability by 30%, reduced pipeline latency by 40%, and enabled self-service analytics 
+across cross-functional teams. Strong focus on scalability, performance optimization, governance, and production-grade data engineering 
+best practices.
 
-**Currently:** AI/ML Engineer @ **Capital One** (Dec 2024–Present) working on real-time fraud detection and credit risk.  
-**Previously:** AI/ML Engineer @ **Hexaware Technologies** (Jan 2021–Jul 2023).  
+
+**Currently:** Data Engineer @ ** JPMorgan Chase & Co., USA** (Dec 2024–Present) working on real-time fraud detection and credit risk.  
+**Previously:** Data Engineer @ **Hexaware Technologies** (Jan 2021–Jul 2023).  
 **Education:** M.S. in Applied Data Science, **Syracuse University** (May 2025).
 
 ---
