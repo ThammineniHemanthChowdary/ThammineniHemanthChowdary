@@ -1,37 +1,44 @@
 <h1 align="center">Hi, I'm Hemanth 👋</h1>
 <p align="center">
-  <b>AI/ML Engineer • Real-time ML & Streaming • MLOps • Responsible AI</b><br/>
-  I build production ML systems with Python, Spark, Kafka, TensorFlow/PyTorch on AWS & Azure.
+  <b>Data Engineer • ETL & Data Pipelines • Snowflake • Matillion • Cloud Data Platforms</b><br/>
+  I build scalable data pipelines and analytics workflows using Python, SQL, Matillion, and Snowflake on AWS & Azure.
 </p>
 
 <p align="center">
   <a href="https://thamminenihemanthchowdary.github.io/Hemanth_Thammineni.github.io">🌐 Portfolio</a> •
-  <a href="mailto:thamminenihemanth17@gmail.com">✉️ Email</a> •
-  <a href="https://www.linkedin.com/in/hemanthchowdarythammineni/">LinkedIn</a>
+  <a href="mailto:hemanththammineni17@gmail.com">✉️ Email</a> •
+  <a href="https://www.linkedin.com/in/hemanth-thammineni-56375341a/">LinkedIn</a>
 </p>
 
 ---
 
 ### About me
-Data Engineer with 3+ years of experience designing, building, and optimizing enterprise-scale data pipelines, cloud-based data platforms, 
-and analytics-ready datasets in highly regulated environments. Proven expertise in ETL/ELT development, advanced SQL, data modeling, 
-AWS-native services, and data quality frameworks supporting risk, compliance, finance, and analytics use cases. Delivered pipelines 
-processing millions of records per day, improved data reliability by 30%, reduced pipeline latency by 40%, and enabled self-service analytics 
-across cross-functional teams. Strong focus on scalability, performance optimization, governance, and production-grade data engineering 
-best practices.
+Data Engineer | Building scalable data pipelines and data-driven systems
 
+I work on designing and optimizing ETL/ELT pipelines, data workflows, and analytics systems using Python, SQL, and cloud technologies. My experience includes working with Matillion, Snowflake, and distributed data processing frameworks to build reliable and efficient data solutions.
 
-**Currently:** Data Engineer @ **JPMorgan Chase & Co., USA** (Dec 2024–Present).  
-**Previously:** Data Engineer @ **Hexaware Technologies** (Jan 2021–Jul 2023).  
+I enjoy working on:
+• Data pipeline development and optimization  
+• Data modeling and warehousing  
+• Automation and data validation  
+• Scalable data processing systems  
+
+Tech Stack:
+Python • SQL • Matillion • Snowflake • Spark • AWS • Azure
+
+Always exploring ways to build efficient, scalable, and production-ready data systems.
+
+**Currently:** Data Engineer @ CloudEQS LLC (Client: Delta Dental of California), USA (Nov 2025–Present)  
+**Previously:** Research Analyst @ Syracuse University, USA (Jun 2025–Oct 2025)
 **Education:** M.S. in Applied Data Science, **Syracuse University** (May 2025).
 
 ---
-
 ### What I work on
-- **Real-time ML & Streaming:** Spark + **Kafka** pipelines; sub-100 ms inference for transaction scoring.  
-- **MLOps & Reliability:** Dockerized services, CI/CD, unit/integration tests, drift & performance monitoring.  
-- **Responsible AI:** Explainability (SHAP/LIME), bias/fairness checks, transparent decisioning.  
-- **Data Engineering:** ETL/ELT on **AWS** (S3, EMR, Lambda, SageMaker) and **Azure** (Databricks, ML Studio, Data Factory).
+- **Data Engineering & ETL:** Designing and optimizing ETL/ELT pipelines using Matillion and Snowflake for scalable data processing and analytics  
+- **Pipeline Optimization & Migration:** Migrating and refactoring data pipelines across environments (Dev/QA/Prod), improving performance and reliability  
+- **Data Quality & Reliability:** Implementing automated validation, reconciliation, and monitoring to ensure high data integrity  
+- **Automation & Analytics:** Building Python-based workflows for data processing, validation, and analytics-ready datasets  
+- **Cloud Data Platforms:** Working with AWS and Azure to build and support modern data infrastructure  
 
 ---
 
